@@ -1,0 +1,7 @@
+# DAIC-WOZ Data & Cache
+DAIC-WOZ Dataset/
+*_P/
+*.wav
+*.bin
+*.csv
+.ipynb_checkpoints/
