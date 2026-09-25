@@ -1,7 +1,9 @@
-# DAIC-WOZ Data & Cache
-DAIC-WOZ Dataset/
-*_P/
-*.wav
-*.bin
+# Ignore raw datasets and feature matrices
 *.csv
+*.npy
+*.pkl
+*.xlsx
+
+# Ignore Colab checkpoints
 .ipynb_checkpoints/
+__pycache__/
