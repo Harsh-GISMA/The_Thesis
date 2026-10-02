@@ -45,3 +45,15 @@ Because we cannot collect actual biometric data from students, the data pipeline
 * `docs/`: Supporting documentation, presentations, and methodology flowcharts.
 
 ## Getting Started
+
+These instructions will help you set up the environment, process the anonymized survey data, and run the multimodal AI framework for early mental health risk screening[cite: 5].
+
+### 1. Prerequisites
+Ensure you have Python 3.8+ installed. It is highly recommended to use a virtual environment to manage dependencies.
+
+### 2. Installation
+Clone this repository and install the necessary dependencies:
+```bash
+git clone [https://github.com/Harsh-GISMA/The_Thesis.git](https://github.com/Harsh-GISMA/The_Thesis.git)
+cd The_Thesis
+pip install -r requirements.txt
