@@ -1,0 +1,30 @@
+# Data Processing & Statistical Analysis
+pandas
+numpy
+scipy
+statsmodels
+
+# Machine Learning & Deep Learning Frameworks
+torch
+torchvision
+torchaudio
+scikit-learn
+
+# NLP & Multimodal Models 
+transformers
+
+# Audio & Speech Processing
+librosa
+
+# Computer Vision
+opencv-python
+Pillow
+
+# Visualization & Interpretability
+matplotlib
+seaborn
+shap
+
+# Environment & Notebooks
+jupyterlab
+ipykernel
